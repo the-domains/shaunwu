@@ -1,0 +1,28 @@
+name: Shaun Wu
+favicon: null
+layout_spectrum: 0.1293132142163813
+typography_spectrum: 0.3873675772920251
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.12950730393640697
+  lightness: 0.01577762048691511
+  saturation: 0.5055419111158699
+  rhythmicContrast: 0.8714352543465793
+purpose: []

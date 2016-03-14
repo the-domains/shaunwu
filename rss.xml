@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Shaun Wu]]></title>
+        <description><![CDATA[Shaun Wu]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Mar 2016 03:43:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What can I do to make sure I am becoming the best version of myself? ]]></title>
+            <description><![CDATA[<article><h1>What can I do to make sure I am becoming the best version of myself? </h1><p>Every single human in this world is born with a pre-determined structure. Each structure of this person consists of: </p></article>]]></description>
+            <link>undefinedwhat-can-i-do-to-make-sure-i-am-becoming-the-best-version-of/index.html</link>
+            <guid isPermaLink="false">38680fbf-a8f4-4c6b-85f6-93ab710e26ab</guid>
+            <pubDate>Mon, 14 Mar 2016 03:43:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
